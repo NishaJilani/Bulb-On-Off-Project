@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+button{
+   font-size: larger;
+}
+
+button:hover{
+    background-color: skyblue;
+}
+
